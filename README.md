@@ -17,7 +17,7 @@ this includes any papers related to testing, modelling, verification and Domain 
 **Submissions**
 For this very first workshop, we seek the following kinds of submissions:  
 *   Papers on any facet of reuse and modularity in game AI:
-     * Position papers (at most 2 pages); author's views and positions should generate dicussion during after a general 5 min presentation during the workshop
+     * Position papers (at most 2 pages); author's views and positions should generate dicussion after an open 5 min presentation during the workshop
      * Regular papers (6 pages)
 *   Game AI Design Patterns:  
 We ask AI DPs writers to submit with the following documentation format (from the [Documentation section](https://en.wikipedia.org/wiki/Software_design_pattern#Documentation)
