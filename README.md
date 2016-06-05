@@ -1,6 +1,19 @@
 # REGAI
 ## Reusing Game Artificial Intelligence
 ## AIIDE-2016 Workshop
+
+Software engineering deals with the systematic organization of design, implementation and testing of software.
+Over the years, various techniques and methodologies have been introduced to increase quality and reliability, while also improving software production.
+Notable among these approaches is software reuse, facilitated through modular design approaches and through design patterns.
+
+This workshop will focus on how reuse can be applied to artificial intelligence in the context of digital games, chiefly through:
+(i) design patterns which are reusable solutions to recurrent problems and (ii) modularity which allows complex software to be manageable for the purpose of reusing design and implementation in other projects.
+
+This workshop first seeks papers describing design patterns in the context of game artificial intelligence,
+but also aims at defining a common documentation and classification of recurrent problems in this area.
+Second, this workshop seeks papers describing approaches, techniques and languages in the context of modularity of game artificial intelligence software with the objective of shedding light on this area;
+this includes any papers related to testing, modelling, verification and DSLs aiming at reusing Game AI.
+
 **Worskhop details**
 For this very first workshop, we seek the following kinds of submissions:  
 *   Papers on reuse, modularity in game AI:
