@@ -39,6 +39,8 @@ Three rôles will be played for DP at REGAI: (i) the (pattern) writer or author 
 and (iii) the (pattern) presenter will present patterns at the workshop with the goal of finding extra known uses; if the presenter is also a writer,
 then this presenter will not present the pattern(s) he wrote.
 
+We're hoping to create a fun and friendly atmosphere where unusual presentations and fruitful discussions will make a successful workshop.
+
 **Chairs**
 * Kevin Dill, Lockheed Martin Mission Systems & Training (USA), kevin.dill@lmco.com
 * Chris Dragert, Ubisoft Toronto (CA), christopher.dragert@ubisoft.com
