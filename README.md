@@ -37,9 +37,9 @@ of Software Design Patterns, Wikipedia):
 Game AI DPs submissions should be at most 2 pages.
 
 **Chairs**
-* Chris Dragert (Ubisoft)
-* Kevin Dill (Lockheed)
-* Éric Jacopin (CREC Saint-Cyr)
+* Kevin Dill, Lockheed Martin Mission Systems & Training (USA), kevin.dill@lmco.com
+* Chris Dragert, Ubisoft Toronto (CA), christopher.dragert@ubisoft.com
+* Éric Jacopin, Military Academy of Saint-Cyr (F), ejacopin@ymail.com
 
 **Contact**
 * Éric Jacopin (CREC Saint-Cyr), ejacopin@ymail.com
