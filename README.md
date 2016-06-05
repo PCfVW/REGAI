@@ -41,7 +41,7 @@ Game AI DPs are intented to be discussed and refined during the workshop (at mos
 * Éric Jacopin, Military Academy of Saint-Cyr (F), ejacopin@ymail.com
 
 **Contact**
-* Éric Jacopin (CREC Saint-Cyr), ejacopin@ymail.com
+* Éric Jacopin, ejacopin@ymail.com
 
 **Important dates**
 
