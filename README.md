@@ -12,14 +12,13 @@ This workshop will focus on how reuse can be applied to artificial intelligence 
 This workshop first seeks papers describing design patterns in the context of game artificial intelligence,
 but also aims at defining a common documentation and classification of recurrent problems in this area.
 Second, this workshop seeks papers describing approaches, techniques and languages in the context of modularity of game artificial intelligence software with the objective of shedding light on this area;
-this includes any papers related to testing, modelling, verification and DSLs aiming at reusing Game AI.
+this includes any papers related to testing, modelling, verification and Domain Specific Languages aiming at reusing Game AI.
 
-**Worskhop details**
+**Submissions**
 For this very first workshop, we seek the following kinds of submissions:  
-*   Papers on reuse, modularity in game AI:
-     * Position papers (1 page)  
-     * Short papers (2-3 pages)  
-     * Regular papers (6 pages)  
+*   Papers on any facet of reuse and modularity in game AI:
+     * Position papers (at most 2 pages); author's views and positions should generate dicussion during after a general 5 min presentation during the workshop
+     * Regular papers (6 pages)
 *   Game AI Design Patterns:  
 We ask AI DPs writers to submit with the following documentation format (from the [Documentation section](https://en.wikipedia.org/wiki/Software_design_pattern#Documentation)
 of Software Design Patterns, Wikipedia):  
@@ -34,7 +33,7 @@ of Software Design Patterns, Wikipedia):
   *  Known Uses: Examples of real usages of the pattern.
   *  Related Patterns: Other patterns that have some relationship with the pattern; discussion of the differences between the pattern and similar patterns
 
-Game AI DPs submissions should be at most 2 pages.
+Game AI DPs are intented to be discussed and refined during the workshop (at most 2 pages).
 
 **Chairs**
 * Kevin Dill, Lockheed Martin Mission Systems & Training (USA), kevin.dill@lmco.com
