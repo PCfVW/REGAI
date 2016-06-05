@@ -33,7 +33,11 @@ of Software Design Patterns, Wikipedia):
   *  Known Uses: Examples of real usages of the pattern.
   *  Related Patterns: Other patterns that have some relationship with the pattern; discussion of the differences between the pattern and similar patterns
 
-Game AI DPs are intented to be discussed and refined during the workshop (at most 2 pages).
+Game AI DPs are intended to be discussed and refined during the workshop (at most 2 pages). Classification of the patterns will be discussed during the workshop.
+Three rôles will be played for DP at REGAI: (i) the (pattern) writer or author will write one or more patterns,
+(ii) the (pattern) editor will be assigned (at least) one writer and will try to catch reuse/modularity grammar mistakes in this writer's patterns
+and (iii) the (patter) presenter will present patterns at the workshop with the goal of finding extra known uses; if the presenter is also a writer,
+then the presenter will not present the pattern(s) he wrote.
 
 **Chairs**
 * Kevin Dill, Lockheed Martin Mission Systems & Training (USA), kevin.dill@lmco.com
