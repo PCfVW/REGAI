@@ -35,7 +35,6 @@ of Software Design Patterns, Wikipedia):
 
 Game AI DPs are intended to be discussed and refined during the workshop. Classification of the patterns will be discussed during the workshop.
 Three roles will be played for DP at REGAI:
-
 1. The pattern writer or author will write one or more patterns,
 
 2. The pattern editor will be assigned (at least) one writer and will try to catch reuse/modularity grammar mistakes in this writer's patterns
