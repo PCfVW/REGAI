@@ -60,4 +60,4 @@ We hope to create a fun and friendly atmosphere where unusual presentations and 
 
 Deadlines to be announced soon.
 
-The workshop shall take place on the 8th or 9th of october, at the [Embassy Suites by Hilton San Francisco Airport - Waterfront](http://embassysuites3.hilton.com/en/hotels/california/embassy-suites-by-hilton-san-francisco-airport-waterfront-SFOBGES/index.html)
+The workshop shall take place on the 8th or 9th of october, at the [Embassy Suites by Hilton San Francisco Airport - Waterfront](http://embassysuites3.hilton.com/en/hotels/california/embassy-suites-by-hilton-san-francisco-airport-waterfront-SFOBGES/index.html).
