@@ -55,4 +55,4 @@ We hope to create a fun and friendly atmosphere where unusual presentations and 
 
 **Important dates**
 
-TBA.
+To be annouced soon.
