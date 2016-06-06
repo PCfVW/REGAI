@@ -1,6 +1,6 @@
 # REGAI
 ## Reusing Game Artificial Intelligence
-## AIIDE-2016 Workshop
+## [AIIDE-2016](http://www.aide.org) Workshop
 
 Software engineering deals with the systematic organization of design, implementation and testing of software.
 Over the years, various techniques and methodologies have been introduced to increase quality and reliability, while also improving software production.
@@ -55,4 +55,6 @@ We hope to create a fun and friendly atmosphere where unusual presentations and 
 
 **Important dates**
 
-To be annouced soon.
+Deadlines to be announced soon.
+
+The workshop shall take place on the 8th or 9th of october, at the Embassy Suites by Hilton San Francisco Airport - Waterfront.
