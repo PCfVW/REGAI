@@ -1,6 +1,8 @@
 # REGAI
 ## Reusing Game Artificial Intelligence
-## [AIIDE-2016](http://www.aide.org) Workshop
+## [AIIDE-2016](http://www.aiide.org) Workshop
+
+**Presentation**
 
 Software engineering deals with the systematic organization of design, implementation and testing of software.
 Over the years, various techniques and methodologies have been introduced to increase quality and reliability, while also improving software production.
