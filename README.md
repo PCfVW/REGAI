@@ -17,6 +17,7 @@ Second, this workshop seeks papers describing approaches, techniques and languag
 this includes any papers related to testing, modelling, verification and Domain Specific Languages aiming at reusing Game AI.
 
 **Submissions**
+
 For this very first workshop, we seek the following kinds of submissions:  
 *   Papers on any facet of reuse and modularity in game AI:
      * Position papers (at most 2 pages); author's views and positions should generate dicussion after an open 5 min presentation during the workshop,
