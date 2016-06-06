@@ -17,8 +17,8 @@ this includes any papers related to testing, modelling, verification and Domain 
 **Submissions**
 For this very first workshop, we seek the following kinds of submissions:  
 *   Papers on any facet of reuse and modularity in game AI:
-     * Position papers (at most 2 pages); author's views and positions should generate dicussion after an open 5 min presentation during the workshop
-     * Regular papers (6 pages)
+     * Position papers (at most 2 pages); author's views and positions should generate dicussion after an open 5 min presentation during the workshop,
+     * Regular papers (6 pages).
 *   Game AI Design Patterns (at most 2 pages):  
 We ask AI DP writers to submit with the following documentation format (from the [Documentation section](https://en.wikipedia.org/wiki/Software_design_pattern#Documentation)
 of Software Design Patterns, Wikipedia):  
@@ -38,7 +38,7 @@ Three roles will be played for DP at REGAI:
 
 1. The pattern writer or author will write one or more patterns,
 
-2. The pattern editor will be assigned (at least) one writer and will try to catch reuse/modularity grammar mistakes in this writer's patterns,
+2. The pattern editor will be assigned at least one writer and will try to catch reuse/modularity grammar mistakes in this writer's patterns,
 
 3. The pattern presenter will present patterns at the workshop with the goal of finding extra known uses; if the presenter is also a writer,
 then this presenter will not present the pattern(s) he wrote.
