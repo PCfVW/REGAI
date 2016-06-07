@@ -45,7 +45,7 @@ Three roles will be played for DP at REGAI:
 3. The pattern presenter will present patterns at the workshop with the goal of finding extra known uses; if the presenter is also a writer,
 then this presenter will not present the pattern(s) he wrote.
 
-**IF** you are interested in playing any of these roles **THEN** please, contact the chairs :email:. Thank you!
+**IF** you are interested in playing any of these roles **THEN** please, contact the chairs. Thank you!
 
 We hope to create a fun and friendly atmosphere where unusual presentations and fruitful discussions will make a successful workshop.
 
