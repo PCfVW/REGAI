@@ -31,7 +31,6 @@ of Software Design Patterns, Wikipedia):
   *  Also Known As (Aliases): Other names for the pattern.
   *  Motivation (Forces): An sample problem and an example of how this pattern can be used to solve it.
   *  Applicability: Situations in which this pattern is usable; the context for the pattern.
-  *  Participants: A listing of the classes and objects used in the pattern and their roles in the design.
   *  Consequences: A description of the results, side effects, and trade offs caused by using the pattern.
   *  Known Uses: Examples of real usages of the pattern.
   *  Related Patterns: Other patterns that have some relationship with the pattern, as well as a discussion of the differences between this pattern and the similar patterns.
@@ -45,6 +44,8 @@ Three roles will be played for DP at REGAI:
 
 3. The pattern presenter will present patterns at the workshop with the goal of finding extra known uses; if the presenter is also a writer,
 then this presenter will not present the pattern(s) he wrote.
+
+*IF* you are interested in playing any of these roles *THEN* please, contact the chairs. Thank you!
 
 We hope to create a fun and friendly atmosphere where unusual presentations and fruitful discussions will make a successful workshop.
 
