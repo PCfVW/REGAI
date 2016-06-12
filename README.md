@@ -2,7 +2,7 @@
 ## Reusing Game Artificial Intelligence
 ## [AIIDE-2016](http://www.aiide.org) Workshop
 
-**Presentation**
+### Presentation
 
 Software engineering deals with the systematic organization of design, implementation and testing of software.
 Over the years, various techniques and methodologies have been introduced to increase quality and reliability, while also improving software production.
@@ -16,7 +16,7 @@ but also aims at defining a common documentation and classification of recurrent
 Second, this workshop seeks papers describing approaches, techniques and languages in the context of modularity of game artificial intelligence software with the objective of shedding light on this area;
 this includes any papers related to testing, modelling, verification and Domain Specific Languages aiming at reusing Game AI.
 
-**Submissions**
+### Submissions
 
 For this very first workshop, we seek the following kinds of submissions:  
 *   Papers on any facet of reuse and modularity in game AI:
@@ -49,16 +49,18 @@ then this presenter will not present the pattern(s) he wrote.
 
 We hope to create a fun and friendly atmosphere where unusual presentations and fruitful discussions will make a successful workshop.
 
-**Chairs**
+### Chairs
 * Kevin Dill, Lockheed Martin Mission Systems & Training (USA), kevin.dill@lmco.com
 * Chris Dragert, Ubisoft Toronto (CA), christopher.dragert@ubisoft.com
 * Éric Jacopin, Military Academy of Saint-Cyr (F), ejacopin@ymail.com
 
 **Contact**
-* Éric Jacopin, ejacopin@ymail.com
 
-**Important dates**
+Éric Jacopin, ejacopin@ymail.com
 
-Deadlines to be announced soon.
+### Important dates
+
+- **NOW!** Please, let us know what you intend to submit or which role you're interested in. Thank you!
+- Other deadlines to be announced soon.
 
 The workshop shall take place on the 8th or 9th of october, at the [Embassy Suites by Hilton San Francisco Airport - Waterfront](http://embassysuites3.hilton.com/en/hotels/california/embassy-suites-by-hilton-san-francisco-airport-waterfront-SFOBGES/index.html).
