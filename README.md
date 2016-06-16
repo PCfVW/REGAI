@@ -60,7 +60,9 @@ We hope to create a fun and friendly atmosphere where unusual presentations and 
 
 ### Important dates
 
-- **NOW!** Please, let us know what you intend to submit or which role you're interested in. Thank you!
-- Other deadlines to be announced soon.
+* **NOW!** Please, let us know what you intend to submit or which role you're interested in. Thank you!
+* **Paper Submission Deadline:** Monday, august 8th
+* **Paper Acceptance Notification:** Friday, august 26th
+* **Final Version (Camera-Ready) Deadline:** Monday, september 12th
 
 The workshop shall take place on the 8th or 9th of october, at the [Embassy Suites by Hilton San Francisco Airport - Waterfront](http://embassysuites3.hilton.com/en/hotels/california/embassy-suites-by-hilton-san-francisco-airport-waterfront-SFOBGES/index.html).
