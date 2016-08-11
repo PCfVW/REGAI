@@ -1,4 +1,4 @@
-﻿> Unfortunately, as of 11th of august, 2016, the REGAI workshop has been cancelled; contact us for details.
+﻿> ** Unfortunately, as of 11th of august, 2016, the REGAI workshop has been cancelled **
 
 # REGAI
 ## Reusing Game Artificial Intelligence
